@@ -1,0 +1,5 @@
+Welcome, Turbo! The TurboCraft 1.1 is here!
+
+**New Features in 1.1:**
+- Basic player movement implemented.
+- Basic block placing and breaking functionality.
