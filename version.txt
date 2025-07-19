@@ -1,5 +1,2 @@
 version: v1.1
 link: https://github.com/SigmaPlayz/TurboCraft-Releases/releases/download/v1.1/client.py
-
-version: v1.2
-link: https://github.com/SigmaPlayz/TurboCraft-Releases/releases/download/v1.2/client.py
